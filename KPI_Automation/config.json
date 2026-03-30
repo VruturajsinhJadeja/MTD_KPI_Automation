@@ -1,0 +1,34 @@
+{
+  "environment": {
+    "base_url": "https://demo.salescode.ai",
+    "lob": "cokeargdemo",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "public_key": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCvEbxPHVMhvoI4JVU0twKmV6+D0glCpxrAiN7+sp88xUvhA+IIrirRCGiq+v5rpG3VMJv3N5+Nxm/2JZwwMlw04tdCOoLdsp4iLc+UNq0iTZ5P2W/U7QhsQNDsA+qzPtZC28AUm1mfkNYu+FEkec5vkRxHk4Co7gd5RjGGlzSLmQIDAQAB\n-----END PUBLIC KEY-----"
+  },
+  "users": [
+    {
+      "login_id": "V0202",
+      "password": "@123"
+    },
+    {
+      "login_id": "V6142",
+      "password": "1234"
+    },
+    {
+      "login_id": "V0305",
+      "password": "@1234"
+    },
+    {
+      "login_id": "V1313",
+      "password": "@1234"
+    },
+    {
+      "login_id": "V0310",
+      "password": "@1234"
+    },
+    {
+      "login_id": "V4045",
+      "password": "@1234"
+    }
+  ]
+}
